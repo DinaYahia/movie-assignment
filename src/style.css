@@ -1,0 +1,74 @@
+body{
+    padding: 20px;
+    color: white;
+}
+
+p{
+    color:black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+div.containerDiv{
+    background-color: whitesmoke;
+    max-height:600px;
+    padding: 5px;
+    box-shadow: 9px -9px 9px -2px rgba(225,225,225,0.75);
+-webkit-box-shadow: 9px -9px 9px -2px rgba(225,225,225,0.75);
+-moz-box-shadow: 9px -9px 9px -2px rgba(225,225,225,0.75);
+}
+
+div.topDetail{
+    margin: 20px 0px;
+}
+
+p#title{
+    color:black;
+    font-size:50px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+p#yearProd{
+    color:black;
+    font-size: 12px;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+div#showContainer {
+    padding: 30px;
+    background-color:whitesmoke;
+    box-shadow: 9px -9px 9px -2px rgba(225,225,225,0.75);
+-webkit-box-shadow: 9px -9px 9px -2px rgba(225,225,225,0.75);
+-moz-box-shadow: 9px -9px 9px -2px rgba(225,225,225,0.75);
+}
+
+div#showContainerRow{
+    margin: 0px;
+}
+
+div.innershowContainerRow{
+    padding: 10px;
+}
+
+div.detailDiv{
+    padding:0px 10px;
+}
+
+div#summaryMovie{
+    padding:10px;
+}
+
+img#moviePoster{
+    width: 100%;
+    height: 50%;
+}
+
+strong{
+    font-size: 20px;
+}
+
+p#movieSummary{
+    font-size: 20px;
+    font-weight: bold;
+}
